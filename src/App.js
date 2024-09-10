@@ -12,8 +12,7 @@ function App() {
 
         <h1>hello world</h1>
         <h1>docker</h1>
-          docker
-        <h1>this is renuka</h1>
+        <h1>git to docker repo</h1>
       </header>
     </div>
   );
